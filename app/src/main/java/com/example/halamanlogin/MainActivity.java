@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         password = findViewById(R.id.et_password);
         login.setOnClickListener(this);
         reset.setOnClickListener(this);
-        userDB = "jano";
-        userpassword = "jano";
+        userDB = "dennys";
+        userpassword = "dennys";
     }
 
     @Override
