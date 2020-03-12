@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Halaman Login</string>
+    <string name ="black">#0E0D0D</string>
 </resources>
